@@ -2,7 +2,7 @@
 
 ## Context and Problem Statement
 
-I need to be able to display the architecture of the system and its different levels (System Context and Container ) correctly and efficiently.
+I need to be able to display the Contetxt Diagram correctly and effectively.
 
 ## Considered Options
 
