@@ -25,7 +25,7 @@ I need to be able to choose the correct Architecture Style
 ## Pros and Cons of the Options
 
 ### Service Oriented Architecture
-*Has great reusability
-*Also has great replaceability of services without affecting the system as a whole
+* Has great reusability
+* Also has great replaceability of services without affecting the system as a whole
 
 
